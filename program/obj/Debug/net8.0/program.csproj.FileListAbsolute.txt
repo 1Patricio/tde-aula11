@@ -1,0 +1,14 @@
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\bin\Debug\net8.0\program.exe
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\bin\Debug\net8.0\program.deps.json
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\bin\Debug\net8.0\program.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\bin\Debug\net8.0\program.pdb
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.pdb
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\tde-aula11\program\obj\Debug\net8.0\ref\program.dll
